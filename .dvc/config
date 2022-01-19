@@ -1,2 +1,4 @@
 ['remote "local"']
     url = /tmp/dvc-storage
+[core]
+    remote=local
